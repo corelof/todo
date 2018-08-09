@@ -42,6 +42,7 @@ func main() {
 				}
 				fmt.Printf("%s:%d - %s\n", stat.Name(), ln, line)
 			}
+			ln++
 		}
 		f.Close()
 	}
