@@ -7,13 +7,13 @@
 ### Installing ###
 
 - Download
-    1. [Download binary (linux only)](https://bitbucket.org/corelof/todo/downloads/todo)
-    2. Make sure that binary file is inside of ```$PATH```
+    - [Download binary (linux only)](https://bitbucket.org/corelof/todo/downloads/todo)
+    - Make sure that binary file is inside of ```$PATH```
 - Build from sources for other platforms
-    1. [Insall golang](https://golang.org/dl/)
-    2. Clone repo into ```$GOPATH/src```
-    3. Run ```go install``` inside of ```$GOPATH/src/CLONED_REPO```
-    4. Add ```$GOPATH/bin``` to ```$PATH``` or copy ```$GOPATH/todo``` into the folder contained in the path
+    - [Insall golang](https://golang.org/dl/)
+    - Clone repo into ```$GOPATH/src```
+    - Run ```go install``` inside of ```$GOPATH/src/CLONED_REPO```
+    - Add ```$GOPATH/bin``` to ```$PATH``` or copy ```$GOPATH/todo``` into the folder contained in the path
 
 ---
 
@@ -26,5 +26,4 @@
 
 ### Team ###
 
-
- @corelof
+* [corelof](https://github.com/corelof)
